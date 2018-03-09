@@ -8,7 +8,7 @@ Round Robin test on elastic properties of poro- and viscoelastic materials for v
 Link to the PDF of the presentation :
 [http://sapem2017.matelys.com/proceedings/Characterization/000063.pdf](http://sapem2017.matelys.com/proceedings/Characterization/000063.pdf)
 
-Link to the video recording of the presentation :
+Link to the video recording of the presentation (if a password is needed, try "denorms72"):
 [https://umotion.univ-lemans.fr/video/2548-round-robin-test-on-elastic-properties-of-poro-and-viscoelastic-materials-for-vibro-acoustic-applications-by-paolo-bonfiglio-university-of-ferrara/](//umotion.univ-lemans.fr/video/2548-round-robin-test-on-elastic-properties-of-poro-and-viscoelastic-materials-for-vibro-acoustic-applications-by-paolo-bonfiglio-university-of-ferrara/)
 
 A peer-review article is currently under reviewed.
